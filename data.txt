@@ -1,1 +1,1 @@
- 0 Samsung Galaxy 5 50000  1 Apple Iphone 10 65000 2 HTC Desire 3 70000 3 Huawei Honor 12 25000 4 Oppo S8 30 15000 5 LG Nexus 1 22000 
+ 0 Samsung Galaxy 4 50000  1 Apple Iphone 9 65000  2 HTC Desire 0 70000  3 Huawei Honor 10 15000  4 Oppo S8 18 15000  5 LG Nexus 0 22000  6 Motorola MotoG4 9 12000  7 Google nexus 10 67000  8 Geonie A7 3 24500  9 LG G5 10 12000 
